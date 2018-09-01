@@ -7,8 +7,8 @@ positional arguments:
   userstring  The string you wish to encode / decode
 
 optional arguments:
-  -h, --help  show this help message and exit
-  -e          encode an ascii string to base64
-  -d          decode a base64 string to ascii
+-h, --help  show this help message and exit
+-e          encode an ascii string to base64
+-d          decode a base64 string to ascii
 
 Thanks for using :-)
