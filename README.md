@@ -7,17 +7,17 @@ usage: EZ-base64.py [userstring] [options]
 
 positional arguments:
 
-userstring  The string you wish to encode / decode
+   userstring  The string you wish to encode / decode
 
 
 
 optional arguments:
 
--h, --help  show this help message and exit
+   -h, --help  show this help message and exit
 
--e          encode an ascii string to base64
+   -e          encode an ascii string to base64
 
--d          decode a base64 string to ascii
+   -d          decode a base64 string to ascii
 
 
 
